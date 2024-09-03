@@ -13,7 +13,7 @@ class MiniWhatsApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(scaffoldBackgroundColor: const Color(0xff273443)),
+      theme: ThemeData(scaffoldBackgroundColor: const Color(0xff0b141b)),
       themeMode: ThemeMode.dark,
       home: const WelcomeScreen(),
     );

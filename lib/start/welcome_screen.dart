@@ -34,12 +34,12 @@ class WelcomeScreen extends StatelessWidget {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10),
                 ),
-                color: const Color(0xff2ba84a),
+                color: const Color(0xff21c063),
                 padding: const EdgeInsets.all(10),
                 child: const Text(
                   'Agree & Continue',
                   style: TextStyle(
-                    color: Colors.white,
+                    color: Colors.black,
                     fontSize: 18,
                     // fontWeight: FontWeig,
                   ),
